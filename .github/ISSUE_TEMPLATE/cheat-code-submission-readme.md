@@ -25,7 +25,6 @@ If cheat code doesn't work after doing all the steps then the game have DMA. Rea
 * **Title**: Please use the NPS database for consistency!
 * **Version**: Do not leave this blank! If no updates then it's 1.00. If the type is CompPack then input the CompPack's version instead.
 * **Type**: Do not leave this blank either!
-   * Vitamin
    * MaiDump
    * CompPack
    * NoNpDrm
