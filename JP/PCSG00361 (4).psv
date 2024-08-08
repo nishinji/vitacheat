@@ -1,0 +1,20 @@
+# ID: PCSG00361
+# Title: バレットガールズ
+# Region: JP
+# Version: 1.03
+# Type:
+# Code Author:
+# Credits: https://wikiwiki.jp/pvcm/%E3%83%81%E3%83%BC%E3%83%88%E4%B8%80%E8%A6%A7
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSExxxxx.psv
+# Note:
+
+_V0 Inf Money
+$B200 00000001 00000000
+$0200 00036A98 0098967F
+
+_V0 Inf Ammo
+$B200 00000001 00000000
+$0000 00045D5C 0000004D
+$0000 00045D60 0000004D
+$0000 00045D58 0000004D
+$0000 00045D64 0000004D

@@ -2,11 +2,10 @@
 # Title: The Idol M@ster: Must Songs - Red Album
 # Region: JPN
 # Version: 1.00
-# Type: MAI5
-# Code Author: 我爱吃洋葱
+# Type:
 # Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSG00677.psv
-# Original Source: http://www.speedfly.cn/19839.html
-# Note: You might have to download the eboot here for the cheats to work (http://www.speedfly.cn/19839.html)
+# Original Source: https://medaka.5ch.net/test/read.cgi/gameurawaza/1647216749/
 
-_V0 自动演奏//Automatic play
-$A200 81095084 BF00BF00
+_V0 AUTO PLAY
+$B200 00000000 00000000
+$A200 00095084 BF00BF00

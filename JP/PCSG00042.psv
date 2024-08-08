@@ -1,0 +1,45 @@
+# ID: PCSG00042
+# Title: 英雄伝説 零の軌跡 Evolution
+# Region: JP
+# Version: 1.01
+# Type:
+# Code Author:
+# Credits: https://wikiwiki.jp/pvcm/%E3%83%81%E3%83%BC%E3%83%88%E4%B8%80%E8%A6%A7
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSExxxxx.psv
+# Note:
+
+# 途中、一時的に加入するキャラは無効
+_V0 Inf Mira (Money)
+$0200 83D65FC8 05F5E0FF
+
+_V0 Inf Sephit
+$4201 83D65FE0 0000270F
+$0007 00000004 00000000
+
+_V0 MAX HP(All Players)
+$4201 83D61DE0 0001869F
+$0006 00000034 00000000
+$4201 83D61DDC 0001869F
+$0006 00000034 00000000
+
+_V0 Inf EP&CP(All Players)
+$4201 83D61DE6 0000270F
+$0006 00000034 00000000
+$4201 83D61DE8 0000270F
+$0006 00000034 00000000
+$4201 83D61DEA 000000C8
+$0006 00000034 00000000
+
+_V0 Max Level(After Fight)
+$4101 83D61DEC 00008D5F
+$0006 00000034 00000000
+
+# STRを上げて一撃で倒す為、一部の敵無効
+_V0 One Hit Kill(All Players)
+$4101 83D61DF0 1E611E61
+$0006 00000034 00000000
+
+# DEF(物理防御力)のみ
+_V0 Mega Defense(All Players)
+$4101 83D61DF2 0000270F
+$0006 00000034 00000000

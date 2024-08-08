@@ -2,10 +2,10 @@
 # Title: IA/VT -COLORFUL-
 # Region: JPN
 # Version: 1.00
-# Type: MAI5
-# Code Author: 我爱吃洋葱
+# Type:
 # Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSG00355.psv
-# Original Source: http://www.speedfly.cn/19411.html
+# Original Source: https://medaka.5ch.net/test/read.cgi/gameurawaza/1647216749/
 
-_V0 自动演奏
-$A100 8107A1CA 0000BF00
+_V0 AUTO PLAY
+$B200 00000000 00000000
+$A100 0007A1CA 0000BF00
